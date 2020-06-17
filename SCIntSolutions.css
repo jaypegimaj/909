@@ -1,0 +1,45 @@
+
+p {
+	font-family: Muli-Light, sans-serif;
+	font-size: calc(11px + 1vw) !important;
+	margin-bottom: 0.0001px;
+}
+h3 {
+   font-family: 'Josefin Sans', "sans-serif";
+   font-size:calc(13px + 1vw);
+   padding: 0.3em;
+   color: black;
+   text-align: left;
+   justify-content: center;
+}
+h4 {
+   font-family: 'Josefin Sans', "sans-serif";
+   font-size:calc(24px + 1vw);
+   padding: 0.3em;
+   color: black;
+
+   text-align: : center;
+}
+
+img.center{
+    text-align:center;
+
+    margin-top: calc(1px + 1vw);
+	margin-right: 0;
+	margin-bottom: calc(1 + 1vw);
+	margin-left: 0;
+	max-width: 50%;
+}
+.thrColFixHdr #container #header p img {
+	text-align: center;
+	margin: 0em;
+}
+.thrColFixHdr #MenuBar {
+	align-items: stretch;
+	height: 30px;
+	/*width: span;*/
+	background-color: white;
+	padding: 0em;
+	margin-top: -0.5em;
+
+}
